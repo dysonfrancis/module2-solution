@@ -65,14 +65,6 @@ p{
     width: 33.33%;
   }
 
-<<<<<<< HEAD
-=======
-  .col-lg-6 {
-    width: 50%;
-  }
-  
->>>>>>> f9ffb6020c51531b3b48e3e928abf60be79da526
-}
 
 /********** Medium displays **********/
 @media (min-width: 768px) and (max-width: 991px) {  
